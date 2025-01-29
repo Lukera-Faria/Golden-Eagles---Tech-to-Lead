@@ -1,17 +1,15 @@
 #  🦅 Golden Eagles - Tech to lead
 
 ### **🔗 Link do Agente GPT:**  
-[Análise de Pitch](https://chatgpt.com/g/g-679764e8ccfc81918a4f4f2b571288e1-inteli-hackathon-onboarding-2025-exemplo)
+[Análise de Pitch](https://chatgpt.com/g/g-67997f977f648191a2d79ab80eff11f7-golden-eagles)
 
 ## **👥 Integrantes do Grupo**  
-- 🧑‍💻 [Nome do integrante 1](#)  
-- 👩‍💻 [Nome do integrante 2](#)  
-- 👨‍🔬 [Nome do integrante 3](#)  
-- 👩‍🔬 [Nome do integrante 4](#)  
-- 👨‍🎨 [Nome do integrante 5](#)  
-- 👩‍🎨 [Nome do integrante 6](#)  
-- 🧑‍🎓 [Nome do integrante 7](#)  
-- 👩‍🎓 [Nome do integrante 8](#)  
+- 🧑‍💻 [Reimar Coelho Ferreira Filho](#)  
+- 👩‍💻 [Kaian Santos Moura](#)  
+- 👨‍🔬 [Maria Arielly](#)  
+- 👩‍🔬 [Lucas Faria](#)  
+- 👨‍🎨 [Mariana Reis](#)  
+- 👩‍🎨 [Nome do integrante 6](#)   
 
 ---
 
