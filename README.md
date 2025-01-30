@@ -60,7 +60,7 @@
 ---
 
 ### **⚠️ Prompts**
-- 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
+- 📗 _[Treinamento Geral de prompt](https://github.com/Lukera-Faria/Golden-Eagles---Tech-to-Lead/blob/main/treinamento_geral.txt/)_
 
 ### **📘 Referências Utilizadas:**  
 - 📕 _[Akinator](https://pt.akinator.com)_  
