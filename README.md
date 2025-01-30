@@ -67,7 +67,7 @@
 - 📙 _[G1 Globo](https://g1.globo.com/economia/concursos-e-emprego/noticia/2019/11/22/8-em-cada-10-profissionais-pedem-demissao-por-causa-do-chefe-veja-os-motivos.ghtml)_  
 
 ### **📖 Documentações Complementares:**  
-- 🔗 [Treinamento para líderes bem conhecidos, sejam reais ou Fictícios](#)  
+- 🔗 [Treinamento para líderes bem conhecidos, sejam reais ou Fictícios]()  
 - 🔗 [Treinamento para indicação de obras literárias](#)  
 - 🔗 [Treinamento geral](#)  
 
