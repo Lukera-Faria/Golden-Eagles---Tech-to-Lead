@@ -68,7 +68,7 @@
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Treinamento para líderes bem conhecidos, sejam reais ou Fictícios](lideres_famosos.json)  
-- 🔗 [Treinamento para indicação de obras literárias](#)  
-- 🔗 [Treinamento geral](#)  
+- 🔗 [Treinamento para indicação de obras literárias](obras_literarias.json)  
+- 🔗 [Treinamento geral](treinamento_geral.pdf)  
 
 ---
