@@ -1,0 +1,212 @@
+{
+    "Classicos e Essenciais sobre Lideranca": [
+        {
+            "titulo": "Liderança",
+            "autor": "John C. Maxwell"
+        },
+        {
+            "titulo": "Os 7 Hábitos das Pessoas Altamente Eficazes",
+            "autor": "Stephen R. Covey"
+        },
+        {
+            "titulo": "O Monge e o Executivo",
+            "autor": "James C. Hunter"
+        },
+        {
+            "titulo": "Good to Great: Empresas Feitas para Vencer",
+            "autor": "Jim Collins"
+        },
+        {
+            "titulo": "A Arte da Guerra",
+            "autor": "Sun Tzu"
+        },
+        {
+            "titulo": "Liderança Corajosa",
+            "autor": "Brené Brown"
+        },
+        {
+            "titulo": "Comece pelo Porquê",
+            "autor": "Simon Sinek"
+        },
+        {
+            "titulo": "O Líder 360º",
+            "autor": "John C. Maxwell"
+        },
+        {
+            "titulo": "A Mentalidade do Fundador",
+            "autor": "Chris Zook e James Allen"
+        },
+        {
+            "titulo": "Líderes Se Servem por Último",
+            "autor": "Simon Sinek"
+        }
+    ],
+    "Lideranca Feminina": [
+        {
+            "titulo": "Faça Acontecer: Mulheres, Trabalho e a Vontade de Liderar",
+            "autor": "Sheryl Sandberg"
+        },
+        {
+            "titulo": "Os Segredos da Liderança de Oprah Winfrey",
+            "autor": "Nancy F. Koehn"
+        },
+        {
+            "titulo": "Lean Out: The Truth About Women, Power, and the Workplace",
+            "autor": "Marissa Orr"
+        },
+        {
+            "titulo": "O Poder da Vulnerabilidade",
+            "autor": "Brené Brown"
+        },
+        {
+            "titulo": "Mulheres Líderes e Suas Histórias Inspiradoras",
+            "autor": "Tânia Moura"
+        },
+        {
+            "titulo": "Garra: O Poder da Paixão e da Perseverança",
+            "autor": "Angela Duckworth"
+        },
+        {
+            "titulo": "She Leads: The Women’s Guide to a Career in Leadership",
+            "autor": "R. Jamison"
+        },
+        {
+            "titulo": "Mulheres e Poder: Um Manifesto",
+            "autor": "Mary Beard"
+        },
+        {
+            "titulo": "O Poder do Agora",
+            "autor": "Eckhart Tolle"
+        },
+        {
+            "titulo": "Hardball for Women: Winning at the Game of Business",
+            "autor": "Pat Heim"
+        }
+    ],
+    "Lideranca Negra e Diversidade": [
+        {
+            "titulo": "Liderança e Propósito: Lições de um CEO Negro para Reimaginar o Capitalismo",
+            "autor": "Hubert Joly"
+        },
+        {
+            "titulo": "A Promised Land",
+            "autor": "Barack Obama"
+        },
+        {
+            "titulo": "Liderança com Alma",
+            "autor": "Ben Horowitz"
+        },
+        {
+            "titulo": "The Memo: What Women of Color Need to Know to Secure a Seat at the Table",
+            "autor": "Minda Harts"
+        },
+        {
+            "titulo": "Black Faces in White Places",
+            "autor": "Randal Pinkett e Jeffrey Robinson"
+        },
+        {
+            "titulo": "Lead from the Outside",
+            "autor": "Stacey Abrams"
+        },
+        {
+            "titulo": "Why Should White Guys Have All the Fun?",
+            "autor": "Reginald F. Lewis"
+        },
+        {
+            "titulo": "The 50th Law",
+            "autor": "50 Cent e Robert Greene"
+        },
+        {
+            "titulo": "Successful Women Think Differently",
+            "autor": "Valorie Burton"
+        },
+        {
+            "titulo": "Between the World and Me",
+            "autor": "Ta-Nehisi Coates"
+        }
+    ],
+    "Lideranca no Mundo dos Negocios": [
+        {
+            "titulo": "O Dilema da Inovação",
+            "autor": "Clayton Christensen"
+        },
+        {
+            "titulo": "O Jeito Disney de Encantar os Clientes",
+            "autor": "Disney Institute"
+        },
+        {
+            "titulo": "A Startup Enxuta",
+            "autor": "Eric Ries"
+        },
+        {
+            "titulo": "Sonho Grande",
+            "autor": "Cristiane Correa"
+        },
+        {
+            "titulo": "A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção",
+            "autor": "Reed Hastings e Erin Meyer"
+        },
+        {
+            "titulo": "Mulheres que Correm com os Lobos",
+            "autor": "Clarissa Pinkola Estés"
+        },
+        {
+            "titulo": "Geração de Valor",
+            "autor": "Flávio Augusto da Silva"
+        },
+        {
+            "titulo": "A Estratégia do Oceano Azul",
+            "autor": "W. Chan Kim e Renée Mauborgne"
+        },
+        {
+            "titulo": "Reinventando as Organizações",
+            "autor": "Frederic Laloux"
+        },
+        {
+            "titulo": "Empresas Feitas para Vencer",
+            "autor": "Jim Collins"
+        }
+    ],
+    "Lideranca Transformacional e Motivacao": [
+        {
+            "titulo": "Mindset: A Nova Psicologia do Sucesso",
+            "autor": "Carol S. Dweck"
+        },
+        {
+            "titulo": "Paixão por Vencer",
+            "autor": "Jack Welch"
+        },
+        {
+            "titulo": "O Poder do Hábito",
+            "autor": "Charles Duhigg"
+        },
+        {
+            "titulo": "Antifrágil",
+            "autor": "Nassim Nicholas Taleb"
+        },
+        {
+            "titulo": "Os Princípios do Sucesso",
+            "autor": "Ray Dalio"
+        },
+        {
+            "titulo": "A Força da Liderança Positiva",
+            "autor": "Jon Gordon"
+        },
+        {
+            "titulo": "Como Fazer Amigos e Influenciar Pessoas",
+            "autor": "Dale Carnegie"
+        },
+        {
+            "titulo": "Os 5 Desafios das Equipes",
+            "autor": "Patrick Lencioni"
+        },
+        {
+            "titulo": "O Milagre da Manhã",
+            "autor": "Hal Elrod"
+        },
+        {
+            "titulo": "The Leader You Want to Be",
+            "autor": "Amy Jen Su"
+        }
+    ]
+}
