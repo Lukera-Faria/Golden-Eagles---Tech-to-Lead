@@ -9,7 +9,7 @@
 - 👨‍🔬 [Maria Arielly](https://github.com/arielly-lima)  
 - 👩‍🔬 [Lucas Faria](https://github.com/Lukera-Faria)  
 - 👨‍🎨 [Mariana Reis](https://github.com/marianalreis)  
-- 👩‍🎨 [Vinicius Cadena](#)   
+- 👩‍🎨 [Vinicius Cadena](https://github.com/ViniCadena1405)   
 
 ---
 
