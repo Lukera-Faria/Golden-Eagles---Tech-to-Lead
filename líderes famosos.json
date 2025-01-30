@@ -1,0 +1,642 @@
+{
+  "leaders": [
+    {
+      "name": "Nelson Mandela",
+      "country": "África do Sul",
+      "field": "Política",
+      "leadership_styles": [
+        "Transformacional",
+        "Inspirador"
+      ],
+      "main_achievements": [
+        "Contribuiu para o fim do apartheid",
+        "Recebeu o Prêmio Nobel da Paz",
+        "Foi Presidente da África do Sul"
+      ]
+    },
+    {
+      "name": "Luiza Trajano",
+      "country": "Brasil",
+      "field": "Empreendedorismo",
+      "leadership_styles": [
+        "Servidora",
+        "Inovadora"
+      ],
+      "main_achievements": [
+        "Liderou o crescimento do Magazine Luiza",
+        "Reconhecida como uma das empresárias mais influentes"
+      ]
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "country": "Índia",
+      "field": "Política",
+      "leadership_styles": [
+        "Transformacional",
+        "Pacifista"
+      ],
+      "main_achievements": [
+        "Liderou o movimento de independência da Índia",
+        "Promoveu a resistência não violenta"
+      ]
+    },
+    {
+      "name": "Barack Obama",
+      "country": "Estados Unidos",
+      "field": "Política",
+      "leadership_styles": [
+        "Inspirador",
+        "Colaborativo"
+      ],
+      "main_achievements": [
+        "Primeiro presidente afro-americano dos EUA",
+        "Promoveu a reforma da saúde nos EUA"
+      ]
+    },
+    {
+      "name": "Angela Merkel",
+      "country": "Alemanha",
+      "field": "Política",
+      "leadership_styles": [
+        "Pragmática",
+        "Inspiradora"
+      ],
+      "main_achievements": [
+        "Chanceler da Alemanha por 16 anos",
+        "Reconhecida pela liderança durante crises econômicas"
+      ]
+    },
+    {
+      "name": "Steve Jobs",
+      "country": "Estados Unidos",
+      "field": "Tecnologia",
+      "leadership_styles": [
+        "Visionário",
+        "Transformacional"
+      ],
+      "main_achievements": [
+        "Cofundador da Apple",
+        "Revolucionou a tecnologia com produtos inovadores"
+      ]
+    },
+    {
+      "name": "Malala Yousafzai",
+      "country": "Paquistão",
+      "field": "Educação e Direitos Humanos",
+      "leadership_styles": [
+        "Inspiradora",
+        "Transformacional"
+      ],
+      "main_achievements": [
+        "Lutou pelo direito à educação das meninas",
+        "Mais jovem vencedora do Prêmio Nobel da Paz"
+      ]
+    },
+    {
+      "name": "Winston Churchill",
+      "country": "Reino Unido",
+      "field": "Política",
+      "leadership_styles": [
+        "Carismático",
+        "Inspirador"
+      ],
+      "main_achievements": [
+        "Liderou o Reino Unido durante a Segunda Guerra Mundial",
+        "Reconhecido por sua oratória e resiliência"
+      ]
+    },
+    {
+      "name": "Elon Musk",
+      "country": "Estados Unidos",
+      "field": "Empreendedorismo",
+      "leadership_styles": [
+        "Visionário",
+        "Inovador"
+      ],
+      "main_achievements": [
+        "Fundador da Tesla e SpaceX",
+        "Avançou a exploração espacial comercial"
+      ]
+    },
+    {
+      "name": "Jacinda Ardern",
+      "country": "Nova Zelândia",
+      "field": "Política",
+      "leadership_styles": [
+        "Empática",
+        "Inspiradora"
+      ],
+      "main_achievements": [
+        "Liderou a Nova Zelândia durante a pandemia de COVID-19",
+        "Reconhecida por sua abordagem compassiva à governança"
+      ]
+    },
+    {
+      "name": "Martin Luther King Jr.",
+      "country": "Estados Unidos",
+      "field": "Direitos Civis",
+      "leadership_styles": [
+        "Transformacional",
+        "Inspirador"
+      ],
+      "main_achievements": [
+        "Liderou o movimento pelos direitos civis nos EUA",
+        "Proferiu o icônico discurso 'Eu tenho um sonho'"
+      ]
+    },
+    {
+      "name": "Coco Chanel",
+      "country": "França",
+      "field": "Moda",
+      "leadership_styles": [
+        "Visionária",
+        "Inovadora"
+      ],
+      "main_achievements": [
+        "Revolucionou a moda feminina",
+        "Fundadora da marca Chanel"
+      ]
+    },
+    {
+      "name": "Jeff Bezos",
+      "country": "Estados Unidos",
+      "field": "Empreendedorismo",
+      "leadership_styles": [
+        "Visionário",
+        "Estratégico"
+      ],
+      "main_achievements": [
+        "Fundador da Amazon",
+        "Transformou o comércio eletrônico"
+      ]
+    },
+    {
+      "name": "Ruth Bader Ginsburg",
+      "country": "Estados Unidos",
+      "field": "Justiça",
+      "leadership_styles": [
+        "Inspiradora",
+        "Determinada"
+      ],
+      "main_achievements": [
+        "Defendeu os direitos das mulheres",
+        "Serviu na Suprema Corte dos EUA"
+      ]
+    },
+    {
+      "name": "Albert Einstein",
+      "country": "Alemanha",
+      "field": "Ciência",
+      "leadership_styles": [
+        "Visionário",
+        "Transformacional"
+      ],
+      "main_achievements": [
+        "Desenvolveu a teoria da relatividade",
+        "Influenciou profundamente a física moderna"
+      ]
+    },
+    {
+      "name": "Serena Williams",
+      "country": "Estados Unidos",
+      "field": "Esporte",
+      "leadership_styles": [
+        "Inspiradora",
+        "Resiliente"
+      ],
+      "main_achievements": [
+        "Conquistou 23 títulos de Grand Slam",
+        "Defensora da igualdade de gênero no esporte"
+      ]
+    },
+    {
+      "name": "Oprah Winfrey",
+      "country": "Estados Unidos",
+      "field": "Mídia",
+      "leadership_styles": [
+        "Inspiradora",
+        "Visionária"
+      ],
+      "main_achievements": [
+        "Fundadora da Harpo Productions",
+        "Influenciou milhões com seu talk show"
+      ]
+    },
+    {
+      "name": "Bill Gates",
+      "country": "Estados Unidos",
+      "field": "Tecnologia e Filantropia",
+      "leadership_styles": [
+        "Visionário",
+        "Estratégico"
+      ],
+      "main_achievements": [
+        "Cofundador da Microsoft",
+        "Criador da Fundação Bill e Melinda Gates"
+      ]
+    },
+    {
+      "name": "Amelia Earhart",
+      "country": "Estados Unidos",
+      "field": "Aviação",
+      "leadership_styles": [
+        "Inspiradora",
+        "Corajosa"
+      ],
+      "main_achievements": [
+        "Primeira mulher a voar sozinha sobre o Atlântico",
+        "Pioneira na aviação feminina"
+      ]
+    },
+    {
+      "name": "Ellen Johnson Sirleaf",
+      "country": "Libéria",
+      "field": "Política",
+      "leadership_styles": [
+        "Inspiradora",
+        "Transformacional"
+      ],
+      "main_achievements": [
+        "Primeira mulher presidente da Libéria",
+        "Recebeu o Prêmio Nobel da Paz"
+      ]
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "country": "Estados Unidos",
+      "field": "Política",
+      "leadership_styles": [
+        "Transformacional",
+        "Inspirador"
+      ],
+      "main_achievements": [
+        "Presidente dos EUA e defensor da conservação ambiental",
+        "Criador do sistema de parques nacionais nos EUA"
+      ]
+    },
+    {
+      "name": "Abraham Lincoln",
+      "country": "Estados Unidos",
+      "field": "Política",
+      "leadership_styles": [
+        "Transformacional",
+        "Inspirador"
+      ],
+      "main_achievements": [
+        "Aboliu a escravidão nos EUA",
+        "Presidiu durante a Guerra Civil"
+      ]
+    },
+    {
+      "name": "Florence Nightingale",
+      "country": "Reino Unido",
+      "field": "Enfermagem",
+      "leadership_styles": [
+        "Inspiradora",
+        "Transformacional"
+      ],
+      "main_achievements": [
+        "Fundadora da enfermagem moderna",
+        "Melhorou a saúde pública"
+      ]
+    },
+    {
+      "name": "Cleopatra",
+      "country": "Egito",
+      "field": "Política",
+      "leadership_styles": [
+        "Estratégica",
+        "Inspiradora"
+      ],
+      "main_achievements": [
+        "Liderou o Egito Antigo",
+        "Hábil em negociações políticas"
+      ]
+    },
+    {
+      "name": "Marie Curie",
+      "country": "Polônia/França",
+      "field": "Ciência",
+      "leadership_styles": [
+        "Visionária",
+        "Determinada"
+      ],
+      "main_achievements": [
+        "Pioneira em pesquisa sobre radioatividade",
+        "Primeira mulher a ganhar um Prêmio Nobel"
+      ]
+    },
+    {
+      "name": "Simón Bolívar",
+      "country": "América do Sul",
+      "field": "Política",
+      "leadership_styles": [
+        "Transformacional",
+        "Inspirador"
+      ],
+      "main_achievements": [
+        "Liderou a independência de vários países sul-americanos",
+        "Conhecido como 'O Libertador'"
+      ]
+    },
+    {
+      "name": "Harriet Tubman",
+      "country": "Estados Unidos",
+      "field": "Direitos Humanos",
+      "leadership_styles": [
+        "Inspiradora",
+        "Corajosa"
+      ],
+      "main_achievements": [
+        "Liderou centenas de escravos à liberdade",
+        "Ativista pelos direitos civis"
+      ]
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "country": "Itália",
+      "field": "Arte e Ciência",
+      "leadership_styles": [
+        "Visionário",
+        "Inovador"
+      ],
+      "main_achievements": [
+        "Pioneiro em arte e invenção",
+        "Criador de obras icônicas como a Mona Lisa"
+      ]
+    },
+    {
+      "name": "Frida Kahlo",
+      "country": "México",
+      "field": "Arte",
+      "leadership_styles": [
+        "Inspiradora",
+        "Resiliente"
+      ],
+      "main_achievements": [
+        "Reconhecida por seu impacto na arte moderna",
+        "Símbolo de força e autenticidade"
+      ]
+    },
+    {
+      "name": "Bruce Wayne (Batman)",
+      "country": "Gotham City",
+      "field": "Justiça",
+      "leadership_styles": [
+        "Estratégico",
+        "Inspirador"
+      ],
+      "main_achievements": [
+        "Defensor de Gotham contra o crime",
+        "Líder da Liga da Justiça"
+      ]
+    },
+    {
+      "name": "Tony Stark (Homem de Ferro)",
+      "country": "Estados Unidos",
+      "field": "Tecnologia e Justiça",
+      "leadership_styles": [
+        "Visionário",
+        "Inovador"
+      ],
+      "main_achievements": [
+        "Criador da tecnologia do reator Arc",
+        "Membro fundador dos Vingadores"
+      ]
+    },
+    {
+      "name": "Diana Prince (Mulher-Maravilha)",
+      "country": "Themyscira",
+      "field": "Justiça e Paz",
+      "leadership_styles": [
+        "Inspiradora",
+        "Transformacional"
+      ],
+      "main_achievements": [
+        "Promoveu a paz mundial",
+        "Membro central da Liga da Justiça"
+      ]
+    },
+    {
+      "name": "Clark Kent (Superman)",
+      "country": "Krypton/Terra",
+      "field": "Justiça",
+      "leadership_styles": [
+        "Inspirador",
+        "Transformacional"
+      ],
+      "main_achievements": [
+        "Defensor da Terra contra ameaças alienígenas",
+        "Símbolo de esperança e justiça"
+      ]
+    },
+    {
+      "name": "Professor Charles Xavier",
+      "country": "Estados Unidos",
+      "field": "Educação e Direitos Humanos",
+      "leadership_styles": [
+        "Inspirador",
+        "Transformacional"
+      ],
+      "main_achievements": [
+        "Fundador do Instituto Xavier",
+        "Lutou pela coexistência entre mutantes e humanos"
+      ]
+    },
+    {
+      "name": "Leia Organa",
+      "country": "Aldeeraan",
+      "field": "Política e Justiça",
+      "leadership_styles": [
+        "Inspiradora",
+        "Pragmática"
+      ],
+      "main_achievements": [
+        "Líder da Aliança Rebelde",
+        "Defensora da democracia na galáxia"
+      ]
+    },
+    {
+      "name": "T'Challa (Pantera Negra)",
+      "country": "Wakanda",
+      "field": "Política e Tecnologia",
+      "leadership_styles": [
+        "Inspirador",
+        "Transformacional"
+      ],
+      "main_achievements": [
+        "Rei de Wakanda",
+        "Protetor do Vibranium e de seu povo"
+      ]
+    },
+    {
+      "name": "Peter Parker (Homem-Aranha)",
+      "country": "Estados Unidos",
+      "field": "Justiça",
+      "leadership_styles": [
+        "Inspirador",
+        "Resiliente"
+      ],
+      "main_achievements": [
+        "Protetor de Nova York",
+        "Defensor do lema 'Com grandes poderes vêm grandes responsabilidades'"
+      ]
+    },
+    {
+      "name": "Thor Odinson",
+      "country": "Asgard",
+      "field": "Justiça e Mitologia",
+      "leadership_styles": [
+        "Inspirador",
+        "Corajoso"
+      ],
+      "main_achievements": [
+        "Defensor dos Nove Reinos",
+        "Membro dos Vingadores"
+      ]
+    },
+    {
+      "name": "Natasha Romanoff (Viúva Negra)",
+      "country": "Rússia/Estados Unidos",
+      "field": "Justiça e Espionagem",
+      "leadership_styles": [
+        "Estratégica",
+        "Corajosa"
+      ],
+      "main_achievements": [
+        "Ex-agente da KGB",
+        "Membro dos Vingadores"
+      ]
+    },
+    {
+      "name": "Gandalf",
+      "country": "Terra Média",
+      "field": "Sabedoria e Justiça",
+      "leadership_styles": [
+        "Inspirador",
+        "Transformacional"
+      ],
+      "main_achievements": [
+        "Guia da Sociedade do Anel",
+        "Defensor da Terra Média contra Sauron"
+      ]
+    },
+    {
+      "name": "Frodo Baggins",
+      "country": "Condado",
+      "field": "Coragem e Justiça",
+      "leadership_styles": [
+        "Resiliente",
+        "Inspirador"
+      ],
+      "main_achievements": [
+        "Portador do Um Anel",
+        "Responsável por destruir o anel em Mordor"
+      ]
+    },
+    {
+      "name": "Aragorn",
+      "country": "Reino de Gondor",
+      "field": "Liderança e Justiça",
+      "leadership_styles": [
+        "Inspirador",
+        "Estratégico"
+      ],
+      "main_achievements": [
+        "Rei legítimo de Gondor",
+        "Líder na Guerra do Anel"
+      ]
+    },
+    {
+      "name": "Hermione Granger",
+      "country": "Reino Unido",
+      "field": "Educação e Justiça",
+      "leadership_styles": [
+        "Estratégica",
+        "Resiliente"
+      ],
+      "main_achievements": [
+        "Membro do trio de ouro na luta contra Voldemort",
+        "Defensora dos direitos dos elfos domésticos"
+      ]
+    },
+    {
+      "name": "Harry Potter",
+      "country": "Reino Unido",
+      "field": "Justiça e Coragem",
+      "leadership_styles": [
+        "Inspirador",
+        "Resiliente"
+      ],
+      "main_achievements": [
+        "Derrotou Voldemort",
+        "Líder na batalha de Hogwarts"
+      ]
+    },
+    {
+      "name": "Katniss Everdeen",
+      "country": "Panem",
+      "field": "Revolução e Justiça",
+      "leadership_styles": [
+        "Inspiradora",
+        "Corajosa"
+      ],
+      "main_achievements": [
+        "Líder da revolução contra a Capital",
+        "Símbolo do Tordo"
+      ]
+    },
+    {
+      "name": "Daenerys Targaryen",
+      "country": "Westeros",
+      "field": "Política e Justiça",
+      "leadership_styles": [
+        "Transformacional",
+        "Inspiradora"
+      ],
+      "main_achievements": [
+        "Líder dos Dothraki",
+        "Buscou restaurar o Trono de Ferro"
+      ]
+    },
+    {
+      "name": "Jon Snow",
+      "country": "Westeros",
+      "field": "Liderança e Justiça",
+      "leadership_styles": [
+        "Corajoso",
+        "Inspirador"
+      ],
+      "main_achievements": [
+        "Comandante da Patrulha da Noite",
+        "Defensor do Norte contra os Caminhantes Brancos"
+      ]
+    },
+    {
+      "name": "Optimus Prime",
+      "country": "Cybertron",
+      "field": "Justiça e Liderança",
+      "leadership_styles": [
+        "Inspirador",
+        "Transformacional"
+      ],
+      "main_achievements": [
+        "Líder dos Autobots",
+        "Protetor da Terra contra os Decepticons"
+      ]
+    },
+    {
+      "name": "Yoda",
+      "country": "Desconhecido",
+      "field": "Sabedoria e Justiça",
+      "leadership_styles": [
+        "Inspirador",
+        "Visionário"
+      ],
+      "main_achievements": [
+        "Mestre Jedi",
+        "Treinou gerações de Jedi na luta contra o lado sombrio"
+      ]
+    }
+  ]
+}
